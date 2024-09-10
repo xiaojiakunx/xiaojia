@@ -10,5 +10,8 @@ public class Main {
         System.out.println("这是原始GBK文件");
 
         System.out.println("这是GBK文件新增1");
+
+
+        System.out.println("新增");
     }
 }
