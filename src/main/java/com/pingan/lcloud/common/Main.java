@@ -7,6 +7,6 @@ package com.pingan.lcloud.common;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("这是原始GBK文件");
+        System.out.println("杩欐槸鍘熷GBK鏂囦欢");
     }
 }
