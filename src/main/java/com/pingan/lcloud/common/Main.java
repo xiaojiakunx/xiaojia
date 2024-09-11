@@ -13,5 +13,7 @@ public class Main {
 
 
         System.out.println("新增");
+
+        System.out.println("这是新增的2");
     }
 }
